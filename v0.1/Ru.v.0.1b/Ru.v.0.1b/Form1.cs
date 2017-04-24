@@ -21,7 +21,7 @@ namespace Ru.v._0._1b
 
         private void button1_Click(object sender, EventArgs e)
         {
-            for (int i = 0; i < 4; ++i)
+            for (int i = 0; i < 1; ++i)
             {
 
                 using (Ping p = new Ping())
