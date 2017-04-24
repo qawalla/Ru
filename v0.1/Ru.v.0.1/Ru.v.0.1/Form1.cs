@@ -33,9 +33,8 @@ namespace Ru.v._0._1
             catch (PingException)
             {
                 // Return False
-
-
             }
+            MessageBox.Show("" + pinging, "title");
         }
     }
 }

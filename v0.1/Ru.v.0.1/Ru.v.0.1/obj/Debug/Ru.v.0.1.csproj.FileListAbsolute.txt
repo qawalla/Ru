@@ -1,1 +1,9 @@
 Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\bin\Debug\Ru.v.0.1.exe.config
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\bin\Debug\Ru.v.0.1.exe
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\bin\Debug\Ru.v.0.1.pdb
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\obj\Debug\Ru.v.0.1.csprojResolveAssemblyReference.cache
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\obj\Debug\Ru.v._0._1.Form1.resources
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\obj\Debug\Ru.v._0._1.Properties.Resources.resources
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\obj\Debug\Ru.v.0.1.csproj.GenerateResource.Cache
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\obj\Debug\Ru.v.0.1.exe
+Z:\git\qawalla\Ru\v0.1\Ru.v.0.1\Ru.v.0.1\obj\Debug\Ru.v.0.1.pdb
