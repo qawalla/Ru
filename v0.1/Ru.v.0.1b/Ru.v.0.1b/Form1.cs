@@ -30,5 +30,10 @@ namespace Ru.v._0._1b
                 }
             }
         }
+
+        private void button2_Click(object sender, EventArgs e)
+        {
+
+        }
     }
 }
