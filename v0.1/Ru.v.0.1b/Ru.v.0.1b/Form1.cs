@@ -11,7 +11,7 @@ using System.Net.NetworkInformation;
 using Microsoft.VisualBasic;
 using System.IO;
 
-
+//shit it works??
 namespace Ru.v._0._1b
 {
     public partial class Form1 : Form
