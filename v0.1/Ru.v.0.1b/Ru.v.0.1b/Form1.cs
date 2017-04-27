@@ -37,7 +37,7 @@ namespace Ru.v._0._1b
         {
             listView1.Items.Clear();
         }
-
+        // method to save to filesystem
         private void button3_Click(object sender, EventArgs e)
         {
             SaveFileDialog save = new SaveFileDialog();
