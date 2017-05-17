@@ -46,6 +46,9 @@ namespace Ru.v._0._1b
             {
                 StreamWriter write = new StreamWriter(File.Create(save.FileName));
 
+
+                // removed for new  write method
+                
                 write.Write(listView1);
                 write.Dispose();
 
