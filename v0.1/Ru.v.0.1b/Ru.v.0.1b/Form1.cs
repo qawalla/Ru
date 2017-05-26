@@ -42,7 +42,7 @@ namespace Ru.v._0._1b
         {
             SaveFileDialog save = new SaveFileDialog();
 
-            if (save.ShowDialog() == System.Windows.Forms.DialogResult.OK)
+            if (save.ShowDialog() == DialogResult.OK)
             {
                 StreamWriter write = new StreamWriter(File.Create(save.FileName));
 

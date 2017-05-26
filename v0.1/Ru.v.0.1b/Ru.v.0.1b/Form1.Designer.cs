@@ -99,7 +99,7 @@
             // columnHeader1
             // 
             this.columnHeader1.Text = "Response Time";
-            this.columnHeader1.Width = 476;
+            this.columnHeader1.Width = 450;
             // 
             // Form1
             // 
