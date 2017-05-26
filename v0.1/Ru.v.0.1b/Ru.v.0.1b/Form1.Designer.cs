@@ -34,6 +34,7 @@
             this.listView1 = new System.Windows.Forms.ListView();
             this.button2 = new System.Windows.Forms.Button();
             this.button3 = new System.Windows.Forms.Button();
+            this.columnHeader1 = ((System.Windows.Forms.ColumnHeader)(new System.Windows.Forms.ColumnHeader()));
             this.SuspendLayout();
             // 
             // label1
@@ -66,11 +67,14 @@
             // 
             // listView1
             // 
-            this.listView1.Location = new System.Drawing.Point(16, 52);
+            this.listView1.Columns.AddRange(new System.Windows.Forms.ColumnHeader[] {
+            this.columnHeader1});
+            this.listView1.Location = new System.Drawing.Point(16, 42);
             this.listView1.Name = "listView1";
-            this.listView1.Size = new System.Drawing.Size(481, 104);
+            this.listView1.Size = new System.Drawing.Size(481, 114);
             this.listView1.TabIndex = 3;
             this.listView1.UseCompatibleStateImageBehavior = false;
+            this.listView1.View = System.Windows.Forms.View.Details;
             // 
             // button2
             // 
@@ -91,6 +95,11 @@
             this.button3.Text = "Save";
             this.button3.UseVisualStyleBackColor = true;
             this.button3.Click += new System.EventHandler(this.button3_Click);
+            // 
+            // columnHeader1
+            // 
+            this.columnHeader1.Text = "Response Time";
+            this.columnHeader1.Width = 476;
             // 
             // Form1
             // 
@@ -118,6 +127,7 @@
         private System.Windows.Forms.ListView listView1;
         private System.Windows.Forms.Button button2;
         private System.Windows.Forms.Button button3;
+        private System.Windows.Forms.ColumnHeader columnHeader1;
     }
 }
 

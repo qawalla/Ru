@@ -1,0 +1,1 @@
+System.Windows.Forms.ListView, Items.Count: 9, Items[0]: ListViewItem: {18ms/n}
